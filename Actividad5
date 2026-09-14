@@ -1,0 +1,34 @@
+### Representación de números complejos en el plano
+
+**19)** $-2 + 3i \longrightarrow (-2, 3i)$  
+**20)** $1 - 2i \longrightarrow (1, -2i)$  
+**21)** $-4 + 3i \longrightarrow (-4, 3i)$  
+**22)** $3 + i \longrightarrow (3, i)$  
+**23)** $-4 - 4i \longrightarrow (-4, -4i)$  
+**24)** $-2 - i \longrightarrow (-2, -i)$  
+
+---
+
+### Operaciones con números complejos
+
+#### **25)** $(-7 - 4i) - (-2 + i) = -5 - 5i$
+
+| Parte Real | Parte Imaginaria |
+| :---: | :---: |
+| $-7$ | $-4i$ |
+| $+2$ | $-(+i)$ |
+| **$-5$** | **$-5i$** |
+
+$$\text{Resultado: } -5 - 5i$$
+
+---
+
+#### **26)** $(2 - 4i) - (-5 - 3i) = 7 - i$
+
+| Parte Real | Parte Imaginaria |
+| :---: | :---: |
+| $2$ | $-4i$ |
+| $5$ | $+3i$ |
+| **$7$** | **$-i$** |
+
+$$\text{Resultado: } 7 - i$$
