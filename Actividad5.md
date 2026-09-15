@@ -496,7 +496,7 @@ $$\sqrt{9} = 3 \quad r = 3$$
 $$\Theta = \tan^{-1}(b/a)$$
 $$\Theta = \tan^{-1}\left(\frac{-\frac{3}{2}}{\frac{3\sqrt{3}}{2}}\right) = \tan^{-1}\left(-\frac{3}{3\sqrt{3}}\right) = -\frac{1}{\sqrt{3}}$$
 $$\Theta = \tan^{-1}\left(-\frac{1}{\sqrt{3}}\right) = -30^\circ$$
-$$z = 3(\cos -30^\circ + i\operatorname{Sen} -30^\circ)$$
+$$z = 3(\cos -30^\circ + i\sen -30^\circ)$$
 
 59)$-2$
 
