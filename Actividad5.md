@@ -504,15 +504,15 @@ $$z = 3(\cos -30^\circ + i\sin -30^\circ)$$
 $$R = \sqrt{a^2 + b^2}$$
 $$R = \sqrt{(-2)^2 + (0)^2}$$
 $$R = \sqrt{4} = 2$$
-$$\Theta = \tan^{-1}(b/a) = 0/2 = 0$$
-$$z = 2(\cos 0^\circ + i\sin 0^\circ)$$
+$$\Theta = \tan^{-1}(b/a) = 0/2 = 180$$
+$$z = 2(\cos 180^\circ + i\sin 180^\circ)$$
 
 60) $-7i$
 
 $$R = \sqrt{a^2 + b^2}$$
 $$R = \sqrt{(-7)^2 + (0)^2} = \sqrt{49} = 7$$
-$$\Theta = \tan^{-1}(0/7) = 0$$
-$$7 = (\cos 0 + i\sin 0)$$
+$$\Theta = \tan^{-1}(0/7) = 270$$
+$$7 = (\cos 270 + i\sin 270)$$
 
 ---
 ...
