@@ -10,8 +10,8 @@ ubicar en el plano los siguientes numeros complejos:
 
 19.)  -2 + 3i
 ```
-y
-Im (i)
+              y
+            Im (i)
               ^
               | 4
        •      | 3  
