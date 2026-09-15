@@ -1,6 +1,6 @@
 # Rodrigo Abishai Pool Tamayo
 
-## Actividad #3. Clasificacion de los numeros reales.
+## Actividad #5. Números complejos.
  Fundamentos de algebra
  10 de septiembre del 2026
  Parte del grupo de 1ºB
