@@ -377,7 +377,7 @@ $$
 \end{array} \quad = 2
 $$
 
-41)$\frac{-10 + 8i}{6 + i} = \frac{-52 + 58i}{37}$
+41) $\frac{-10 + 8i}{6 + i} = \frac{-52 + 58i}{37}$
 
 $6 + i \rightarrow 6 - i$
 
@@ -401,7 +401,7 @@ $$
 \end{array} \quad = 37
 $$
 
-42)$\frac{2 - 2i}{4 - 10i} = \frac{7 + 3i}{29}$
+42) $\frac{2 - 2i}{4 - 10i} = \frac{7 + 3i}{29}$
 
 $\frac{1 - i}{2 - 5i}$
 
@@ -463,7 +463,7 @@ $$|z| = \sqrt{(1)^2 + (7)^2} = \sqrt{1 + 49} = \sqrt{50} = 5\sqrt{2} \approx 7.0
 ...
 ## Quinta Seccion
 **Convierte los sig. números complejos a su forma polar**
-55)$6 - 8i$
+55) $6 - 8i$
 
 $$z = 6 - 8i$$
 $$R = \sqrt{8^2 + -8^2} = \sqrt{100} = 10$$
@@ -472,7 +472,7 @@ $$\Theta = \tan^{-1}(b/a) \implies \tan^{-1}(-8/6) = \tan^{-1}(-4/3)$$
 $$\tan^{-1}(-1.3333) \implies \Theta = -53.13^\circ$$
 $$z = 10(\cos 306^\circ + i\sin 306^\circ)$$
 
-56)$5\sqrt{2} + 5\sqrt{2}i$
+56) $5\sqrt{2} + 5\sqrt{2}i$
 
 $$z = 10(\cos 45^\circ + i\sin 45^\circ)$$
 $$(5\sqrt{2})^2 + (5\sqrt{2})^2$$
@@ -480,7 +480,7 @@ $$25 \cdot 2 + 25 \cdot 2 = 50 + 50 = \sqrt{100} = 10 = R$$
 $$\Theta = \tan^{-1}(b/a)$$
 $$\tan^{-1}\left(\frac{5\sqrt{2}}{5\sqrt{2}}\right) = \tan^{-1}(1) = 45^\circ$$
 
-57)$2 - 2\sqrt{3}i$
+57) $2 - 2\sqrt{3}i$
 
 $$(2)^2 + (2\sqrt{3})^2$$
 $$4 + 12 = \sqrt{16} = 4$$
@@ -488,7 +488,7 @@ $$\Theta = \tan^{-1}(b/a) = \tan^{-1}\left(\frac{-2\sqrt{3}}{2}\right) = -\sqrt{
 $$\tan^{-1}(-\sqrt{3}) = -60^\circ$$
 $$z = 4(\cos 300^\circ + i\sin 300^\circ)$$
 
-58)$\frac{3\sqrt{3}}{2} - \frac{3i}{2}$
+58) $\frac{3\sqrt{3}}{2} - \frac{3i}{2}$
 
 $$\sqrt{\left(\frac{3\sqrt{3}}{2}\right)^2 + \left(\frac{3}{2}\right)^2}$$
 $$\sqrt{\left(\frac{9 \cdot 3}{4}\right) + \left(\frac{9}{4}\right)} = \sqrt{\left(\frac{27}{4}\right) + \left(\frac{9}{4}\right)} = \sqrt{\frac{36}{4}}$$
@@ -498,7 +498,7 @@ $$\Theta = \tan^{-1}\left(\frac{-\frac{3}{2}}{\frac{3\sqrt{3}}{2}}\right) = \tan
 $$\Theta = \tan^{-1}\left(-\frac{1}{\sqrt{3}}\right) = -30^\circ$$
 $$z = 3(\cos -30^\circ + i\sin -30^\circ)$$
 
-59)$-2$
+59) $-2$
 
 $$R = \sqrt{a^2 + b^2}$$
 $$R = \sqrt{(-2)^2 + (0)^2}$$
@@ -506,7 +506,7 @@ $$R = \sqrt{4} = 2$$
 $$\Theta = \tan^{-1}(b/a) = 0/2 = 0$$
 $$z = 2(\cos 0^\circ + i\sin 0^\circ)$$
 
-60)$-7i$
+60) $-7i$
 
 $$R = \sqrt{a^2 + b^2}$$
 $$R = \sqrt{(-7)^2 + (0)^2} = \sqrt{49} = 7$$
@@ -518,7 +518,7 @@ $$7 = (\cos 0 + i\sin 0)$$
 ## Sexta Seccion
 **Convierte los sig. números complejos de su forma polar a su forma rectangular**
 
-61.)$\cos 30^\circ + i\sin 30^\circ$
+61.) $\cos 30^\circ + i\sin 30^\circ$
 
 $r = 1$  
 $\theta = 30^\circ$  
@@ -526,7 +526,7 @@ $\theta = 30^\circ$
 $$1 \cdot \cos 30^\circ + 1(\sin 30^\circ)i$$
 $$0.8660 + 0.5i$$
 
-62.)$2(\cos 60^\circ + i\sin 60^\circ)$
+62.) $2(\cos 60^\circ + i\sin 60^\circ)$
 
 $r = 2$  
 $\theta = 60^\circ$  
@@ -534,7 +534,7 @@ $\theta = 60^\circ$
 $$2 \cdot \cos 60^\circ + 2(0.8660)i$$
 $$1 + 1.732i$$
 
-63.)$1.5(\cos 90^\circ + i\sin 90^\circ)$
+63.) $1.5(\cos 90^\circ + i\sin 90^\circ)$
 
 $r = 1.5$  
 $\theta = 90^\circ$  
@@ -543,7 +543,7 @@ $$1.5 \cdot \cos 90^\circ + 1.5(\sin 90^\circ)i$$
 $$0 + 1.5i$$
 $$1.5i$$
 
-64.)$2.5(\cos 120^\circ + i\sin 120^\circ)$
+64.) $2.5(\cos 120^\circ + i\sin 120^\circ)$
 
 $r = 2.5$  
 $\theta = 120^\circ$  
@@ -551,7 +551,7 @@ $\theta = 120^\circ$
 $$2.5 \cdot \cos 120^\circ + 2.5(\sin 120^\circ)i$$
 $$-1.25 + 2.1650i$$
 
-65.)$4(\cos 135^\circ + i\sin 135^\circ)$
+65.) $4(\cos 135^\circ + i\sin 135^\circ)$
 
 $r = 4$  
 $\theta = 135^\circ$  
@@ -559,7 +559,7 @@ $\theta = 135^\circ$
 $$4 \cdot \cos 135^\circ + 4(\sin 135^\circ)i$$
 $$-2.8284 + 2.8284i$$
 
-66.)$3(\cos 180^\circ + i\sin 180^\circ)$
+66.) $3(\cos 180^\circ + i\sin 180^\circ)$
 
 $r = 3$  
 $\theta = 180^\circ$  
